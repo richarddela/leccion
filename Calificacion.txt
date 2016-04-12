@@ -1,0 +1,14 @@
+Detalle Calificacion
+Funciona (5 Puntos): 1. No funciona. Tiene errores de referencias a CSS que no estan adjuntos. Tiene error en JS.
+Errores Manejados o no tiene en consola (2 Puntos):0
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 0.25. Solo tiene bien el while, pero no tiene bien la funcion de imprimir. 
+Comentarios (1 Punto): 0
+Subio bien a github (1 Punto bonus): 1
+Total: 2.25
+
+Comentarios Profesor:
+En la linea 16 del JS, uso la notacion de arreglo para definir el objeto estudiante, por eso tiene error.
+Ha copiado mucho del programa de inventario pero no ha modificado para ajustar a la leccion. Deben practicar.
+Tiene problemas al usar github, sale como Johao Lopez (Estudiante Explico).
+
+https://github.com/richarddela/leccion.git
